@@ -1,7 +1,7 @@
 *
-!config/
-!mods/
-!libraries/
+!config
+!mods
+!libraries
 !READ ME.txt
 !minecraft_server.1.12.2.jar
 !run.bat
