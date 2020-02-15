@@ -3,7 +3,7 @@
 !mods
 !libraries
 !READ ME.txt
-!minecraft_server.1.12.2.jar
+!*.jar
 !*.bat
 !*.ps1
 !SteamTechWorld.jar
