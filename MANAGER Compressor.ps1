@@ -10,7 +10,7 @@ if (Test-Path $ZipFileName){
     echo "File already exists, will be overwrited"
     del $ZipFileName
 }
-
+PAUSE
 if ($verFile[0].Substring($verFile[0].Length - 4) -eq "SOLO") {
     7z a $ZipFileName bin/ config/ mods/ resourcepacks/
 } else {
